@@ -2,9 +2,9 @@ export default class Cubo{
     constructor(aresta){
         this.aresta = aresta
     }
-    
+
     calcularAreaTotal(){
-        return 6 * (this.aresta * this.aresta)        
+        return 6 * (this.aresta * this.aresta)
     }
 
     calcularVolume(){
