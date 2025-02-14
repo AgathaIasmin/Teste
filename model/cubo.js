@@ -1,4 +1,4 @@
-export default class Cubo {
+export default class Cubo{
     constructor(aresta){
         this.aresta = aresta
     }
